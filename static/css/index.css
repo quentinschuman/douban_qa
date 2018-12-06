@@ -1,0 +1,36 @@
+ul{
+    list-style: none;
+}
+.question-div .ul li{
+    border-bottom: 1px solid #eee;
+    overflow: hidden;
+    padding: 10px 0px;
+}
+.question-group{
+    float: left;
+    width: 660px;
+    margin-left: 10px;
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+}
+.question-title a{
+    color: #259;
+    font-weight: 900;
+}
+.question-title{
+    margin-top: 10px;
+}
+.question-info{
+    text-align: right;
+    margin-bottom: 10px;
+}
+.question-info .question-author{
+    margin-right: 20px;
+}
+.question-div{
+    background: #ffffff;
+    width: 730px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 00px;
+}
